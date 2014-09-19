@@ -5,7 +5,7 @@
 Kali Linux Generator its a script that automates the building process of kali linux images (iso)!!!
 
 Added compability to create Kali linux: jessie,wheezy,sid,squeeze
-Added campability to build  64 bit  and  32 bit  images
+Added campability to build amd64 bit  and  i386  bit  686 bit  images
 removed  E17 option  (to many errors)
 Desktops Building Capabilities : XFCE,KDE,ICEWM,GNOME,MATE,LXDE,E17
 
