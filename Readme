@@ -1,0 +1,25 @@
+Kali Linux Generator
+                                  Special thanks to:
+                  Offensive Security for the awesome OS
+
+Kali Linux Generator its a script that automates the building process of kali linux images (iso)!!!
+
+Added compability to create Kali linux: jessie,wheezy,sid,squeeze
+Added campability to build  64 bit  and  32 bit  images
+removed  E17 option  (to many errors)
+Desktops Building Capabilities : XFCE,KDE,ICEWM,GNOME,MATE,LXDE,E17
+
+option 1 :You can just build a Kali Linux image  with  any of  the  folowing desktopXFCE,KDE,ICEWM,GNOME,MATE,LXDE,E17
+
+or
+
+option 2 : the created iso will be remixed (if you choose to remix distributions) with the current installed system ,what does this mean?? it mean that you will get a kali linux image with your current settings,wallpapers,documents(something like backup to a new operating system
+NOTE:
+To remix distribution with kali linux generator you most choose the exact desktop that your installed system has on it installed !! otherwise you will get a kernel panic when you try to boot to the created iso , keep that in mind brothers !!
+No comments.. this script is what any lazy people out there needs!!
+
+Youtube tutorial/preview : https://www.youtube.com/watch?v=2lWVqEf8GA8
+
+
+
+link : http://www.blackhat-sec.com/
