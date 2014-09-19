@@ -11,6 +11,17 @@
 \____\\____\\_/  \|\____\\_/\_\\_/ \|  \_/  \____/\_/\_\
                                                         
 
+Install :
+
+wget  https://raw.githubusercontent.com/D4RkNiK0l4s/Kali-Linux-Generator/master/kali-linux-generator
+
+chmod a+x kali-linux-generator
+
+run it :
+
+./kali-linux-generator
+
+
 
 
 Kali Linux Generator its a script that automates the building process of kali linux images (iso)!!!
