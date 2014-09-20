@@ -1,3 +1,6 @@
 1001
-- added 686 option
-- added qemu support
+- added script self update function!!
+- added 686 bit (for older pc's) building capability!!
+- added qemu (virtualbox to test the iso)!!
+- Customized the script a little!!
+- added capability to add black hat sec scripts and tools to your build !!
