@@ -1,6 +1,8 @@
 1001
-- added script self update function!!
-- added 686 bit (for older pc's) building capability!!
-- added qemu (virtualbox to test the iso)!!
-- Customized the script a little!!
-- added capability to add black hat sec scripts and tools to your build !!
+Update available !
+Added amd64,i386,686,armel,armhf
+Added BHS scripts,tools,wallappers
+Added qemu support to test the iso
+Added Installer for USB 
+Added Debian,Kali-Linux,Ubuntu builds support
+Added self update fuction to the script
